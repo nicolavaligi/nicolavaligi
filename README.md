@@ -1,6 +1,6 @@
 # Nicola Valigi
 
-Sviluppo software geospaziale e automazioni per infrastrutture, energia e dati pubblici. Il mio lavoro collega atti, cartografia e fonti ufficiali a strumenti per consultare e verificare le informazioni sul territorio. [Sito e contatti](https://www.nicvaligi.com/)
+Uso l’AI per progettare, scrivere e testare software. Configuro agenti che lavorano con i tuoi documenti, le tue fonti e gli strumenti che usi già. [Sito e contatti](https://www.nicvaligi.com/)
 
 ## Progetti
 
