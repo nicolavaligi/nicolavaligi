@@ -1,4 +1,4 @@
-# Nicola Valigi
+# houdinick
 
 Uso l’AI per progettare, scrivere e testare software. Configuro agenti che lavorano con i tuoi documenti, le tue fonti e gli strumenti che usi già. [Sito e contatti](https://www.nicvaligi.com/)
 
